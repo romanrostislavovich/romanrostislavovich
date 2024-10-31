@@ -20,6 +20,12 @@
 
 - [Chrome Dev Tools](https://www.youtube.com/watch?v=0sDHMq3x4fA&t=12s&ab_channel=RollingScopesSchool)
 
+## Certificates 
+
+All my certificates you can find [here](src/certificates/CERTIFICATES.md)
+
+Themes: Economic, Languages, Social Project, Psychologies and Programming.
+
 ## Sounds & Mixes
 
 - [Phantom](https://soundcloud.com/officialphantom)
