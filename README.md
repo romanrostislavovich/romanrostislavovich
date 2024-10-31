@@ -3,11 +3,12 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romanrostislavovich&theme=dark)
 
 
-## Contributes  
+### Contributes  
 
-![Repometric](https://avatars3.githubusercontent.com/u/17450030?s=60&v=4)
-![Linterhub](https://avatars1.githubusercontent.com/u/39357698?s=60&v=4)
-![ngx-translate](https://avatars1.githubusercontent.com/u/24717852?s=60&v=4)
+
+<a href="https://github.com/repometric"><img src="https://avatars3.githubusercontent.com/u/17450030?s=60&v=4" alt="Rolling Scopes School" width="60"/></a>
+<a href="https://github.com/linterhub"><img src="https://avatars1.githubusercontent.com/u/39357698?s=60&v=4" alt="Rolling Scopes School" width="60"/></a>
+<a href="https://github.com/ngx-translate"><img src="https://avatars1.githubusercontent.com/u/24717852?s=60&v=4" alt="Rolling Scopes School" width="60"/></a>
 
 ### Mentor 🔭
 
