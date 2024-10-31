@@ -1,6 +1,6 @@
 # Roman Lauryniuk
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itekaf&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romanrostislavovich&theme=dark)
 
 
 ![Repometric](https://avatars3.githubusercontent.com/u/17450030?s=60&v=4)
