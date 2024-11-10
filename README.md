@@ -14,6 +14,7 @@
 
 <a href="https://rs.school/"><img src="https://avatars1.githubusercontent.com/u/11501370?s=60&v=4" alt="Rolling Scopes School" width="60"/></a>
 <a href="https://htmlacademy.org/"><img src="https://avatars2.githubusercontent.com/u/22890904?s=60&v=4" alt="HTML Academy" width="60"/></a>
+<a href="https://htmlacademy.org/"><img src="https://www.epam.com/content/dam/epam/homepage/epam_logo_light.svg" alt="EPAM" width="60"/></a>
 <a href="https://preply.com/"><img src="https://play-lh.googleusercontent.com/WxEXyqBk_Z2lDMbkwMDWQID6rFg-G1XBNt9UkZnvDeCM_OPO3iTL9XGKeD_pzR3KWc8" alt="PrePly" width="60"/></a>
 
 ## Videos
